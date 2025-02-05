@@ -4,7 +4,8 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthur.vignes10) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arthur.vignes10)
+[![LinkedIn](https://www.google.com/search?client=ubuntu-sn&hs=R6O&sca_esv=744faba34f407743&channel=fs&q=logo+linkedin&udm=2&fbs=ABzOT_BnMAgCWdhr5zilP5f1cnRvJ3SHQcDVxkdpDyHwlRhdNfno-ClRh0PKqyvFYyTkfIfJOoyi6rL2ScSJ67dNoiLlMWEa4QTgvKiwWpVPHfvfFl6C6UKP40sBFgK-aVZi7_cLiNt0er8CvMg8Fwbey-kQrzLZL27-98exL8BCUTeW6KBI2kM&sa=X&ved=2ahUKEwjp34WzzKyLAxU3SaQEHV1vBFIQtKgLegQIHBAB&biw=1920&bih=867&dpr=1#vhid=w4lhqM1OeOIWjM&vssid=mosaic)](https://www.linkedin.com/in/arthur-vignes-3871b533b/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br>
