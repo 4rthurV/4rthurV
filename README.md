@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-- 💻 I’m currently working on my_top,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning python,<br>- 🏎️ Ask me about any Mario Kart game,<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.
+- 💻 I’m currently working on **minishell1**,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning python,<br>- 🏎️ Ask me about any Mario Kart game,<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.
 
 
 ## 🌐 Socials:
