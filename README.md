@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I’m currently working on **minishell1**,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning python<br>- 🏎️ Ask me about any Mario Kart game<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.<br>
+- 💻 I’m currently working on **my_world**,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning python<br>- 🏎️ Ask me about any Mario Kart game<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.<br>
 
 
 ## 🌐 Socials:
