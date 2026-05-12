@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I’m currently searching an internship of 4 to 6 months from July 2025,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning C, Python, Bash<br>- 🎮 Want to learn coding games<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.<br>
+- 💻 I’m currently working on Raytracer, Cartridge and Plazza,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning C++<br>- 🎮 Want to learn coding games<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.<br>
 
 
 ## 🌐 Socials:
