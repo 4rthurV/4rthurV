@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I’m currently working on Raytracer, Cartridge and Plazza,<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning C++<br>- 🎮 Want to learn coding games<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.<br>
+- 💻 I’m currently working on Zappy<br>- 🎓 Student at Epitech Lille,<br>- 🐍 I’m currently learning C++<br>- 🎮 Want to learn coding games<br>- 📧 How to reach me: arthur.vignes@epitech.eu,<br>- 🏀 I'm passionate about BasketBall.<br>
 
 
 ## 🌐 Socials:
